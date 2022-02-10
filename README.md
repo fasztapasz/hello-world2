@@ -2,6 +2,7 @@
 ez az első repositorym
 * _alma_
 * _retek_ 
+* _narancs_
 * _mogyoró_
 * _korán_
 * _reggel_
