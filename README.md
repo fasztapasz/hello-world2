@@ -1,9 +1,9 @@
 # hello-world2
 ez az első repositorym
-* alma
-* retek 
-* mogyoró
-* korán
-* reggel
-* rikkant a
-* rigó
+* _alma_
+* _retek_ 
+* _mogyoró_
+* _korán_
+* _reggel_
+* _rikkant a_
+* _rigó_
