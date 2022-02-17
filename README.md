@@ -8,4 +8,4 @@ ez az első repositorym
 * _reggel_
 * _rikkant a_
 * _rigó_
-_Házi feladat_
+* _Házi feladat_
